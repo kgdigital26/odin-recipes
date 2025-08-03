@@ -1,1 +1,2 @@
 # odin-recipes
+This document represents a project I'm doing for the Odin project. In order to practice my GitHub, Terminal (VS Code Studio), and HTML/CSS skills, I will be creating a recipe and sharing it via GitHub. 
